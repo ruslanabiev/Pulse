@@ -1,13 +1,13 @@
 .advantage {
     min-height: 473px;
     padding: 73px 0 83px 0;
-    background: #F6F6F6;
+    background: #f6f6f6;
 
     &__header {
-        color: #0D0D0D;
+        color: #0d0d0d;
         font-weight: 900;
         font-size: 30px;
-        text-align: center; 
+        text-align: center;
     }
 
     &__wrapper {
@@ -27,20 +27,19 @@
         margin-top: 35px;
         font-weight: 700;
         font-size: 18px;
-        color: #0D0D0D;
+        color: #0d0d0d;
     }
 
     &__descr {
         max-width: 272px;
         margin-top: 20px;
-        color: #0D0D0D;
+        color: #0d0d0d;
         font-weight: 300;
         font-size: 14px;
         line-height: 18px;
         text-align: center;
         a {
             color: red;
-        }
     }
-
+    }
 }
